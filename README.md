@@ -5,5 +5,5 @@ Trained a Machine Learning model using Random Forest Regressor(Code is available
 # Credits
 Dataset: The dataset contains information about used cars is taken from Kaggle listed on www.cardekho.com.
 Dataset Link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
-#Result
-![Prediction]{C:\Users\SYEDIHTESHAMHUSSAINS\Desktop\Car_pridiction\Prediction.png}
+# Result
+![Prediction](https://drive.google.com/file/d/1Zwy2weKt6QdtmEWTq2nsu8IkLTO_F9aa/view?usp=sharing)
