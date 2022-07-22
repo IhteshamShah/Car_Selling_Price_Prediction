@@ -1,9 +1,26 @@
 # Car_Selling_Price_Prediction
 In this project we used Random Forest Regressor to find the selling price of car. 
-# Technical Aspect:
-Trained a Machine Learning model using Random Forest Regressor(Code is available in this repo)
-# Credits
+## Technical Aspect:
+Trained a Machine Learning model using Random Forest Regressor (Code is available in this repo)
+
+## Result
+#### (a) Correlation Between Features
+![Prediction](Images/Corelation_between_features.png)
+
+This graph represents the correlation between the selected features. 
+For example Selling_price is dependent on Present_Price, Fuel_Type_Diesel and Kms_Driven. 
+Similarly, Present price has positively corelated to Selling_price, Fuel_Type_Diesel and Kms_Driven
+
+#### (b) Distribution plot
+![Prediction](Images/Histogram.png)
+
+This graph shows the difference between predicted Price and actual price. 
+It can be seen that density of difference between both the prices are distributed nearly zero which represents that most of the time both the values are nearly the same.   
+#### (c) Pridicted Prices  
+![Prediction](Images/Prediction.png)
+
+In the above figure we represented the comparison of actual prices to the predicted prices. Actual prices are represented by green color while predicted prices through Regression tree is represented in red color.  Predicted prices are nearly same as the actual prices which represents the accuracy of the our Model. 
+
+## Credits
 Dataset: The dataset contains information about used cars is taken from Kaggle listed on www.cardekho.com.
 Dataset Link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
-# Result
-![Prediction](https://drive.google.com/file/d/1Zwy2weKt6QdtmEWTq2nsu8IkLTO_F9aa/view?usp=sharing)
