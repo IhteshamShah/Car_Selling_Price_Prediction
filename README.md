@@ -1,5 +1,6 @@
 # Car_Selling_Price_Prediction
 In this project we used Random Forest Regressor to find the selling price of car. 
+CarDekho.com is India's leading car search venture. Its website and app carry rich automotive content such as expert reviews, detailed specs and prices, comparisons as well as videos and pictures of all car brands and models available in India. Each car has a Current selling price, which is the price for buying the car on this site, and a MRP, which is the retail price of the car. These two prices differ depending on factors such as brand, make year, mileage, condition, etc.
 ## Technical Aspect:
 Trained a Machine Learning model using Random Forest Regressor (Code is available in this repo)
 ## Deployment
